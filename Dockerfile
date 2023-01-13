@@ -11,4 +11,4 @@ COPY . .
 # 3500번 포트를 노출한 다음에
 EXPOSE 3500
 # 엔트리포인트를 정의한다
-CMD ["npm", "start"0]
+CMD ["npm", "start"]
